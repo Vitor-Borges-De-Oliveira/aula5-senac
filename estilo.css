@@ -1,0 +1,32 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {text-decoration: none;}
+
+a:link, a:visited{
+
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 14px 25px;
+    border-radius: 40px;
+    transition-duration: 0.7s;
+
+}
+
+a:hover{
+    background-color: red;
+}
+
+.botao-comprar{
+    background-color: deepskyblue;
+}
+
+.botao-carrinho{
+    background-color: greenyellow;
+}
+
+.botao-remover{
+    background-color: orangered;
+}
